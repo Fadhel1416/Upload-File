@@ -4,8 +4,8 @@ java spring boot upload file
 
 #installation
 
-1-clone the project
+### git clone of project
 
-2:run mvn clean install
+### run mvn clean install
 
-3: run mvn spring-boot:run
+### run mvn spring-boot:run
